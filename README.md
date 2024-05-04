@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://izzrieq.github.io/Portfolio-2/](https://izzrieq.github.io/Portfolio-2/)
 
-- ⚡ Fun fact **I am athlete**
+- ⚡ Fun fact **I am shorter than you look at my picture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
