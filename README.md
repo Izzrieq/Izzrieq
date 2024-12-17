@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **-**
 
-- 👨‍💻 All of my projects are available at [https://izzrieq.github.io/Portfolio-2/](https://izzrieq.github.io/Portfolio-2/)
+- 👨‍💻 All of my projects are available at [https://izzrieq.github.io/Portfolio-2/](https://izzrieq.github.io/My-Portfolio/)
 
 - 📝 I regularly write articles on [-](-)
 
